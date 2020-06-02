@@ -1,4 +1,4 @@
-﻿# Description
+# Description
 A helper class for sending messages to Microsoft Teams via webhook.
 
 
